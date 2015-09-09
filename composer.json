@@ -1,0 +1,17 @@
+{
+    "name": "iqg/utils",
+    "description": "some small utils for developer.",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "guonan",
+            "email": "guonan@doweidu.com"
+        }
+    ],
+    "require": {
+        "php":   ">=5.3"
+    },
+    "autoload": {
+        "psr-4": { "Iqg\\Component\\": "src" }
+    }
+}
